@@ -48,8 +48,8 @@ The codes to create each figure is stored in the following three folders.
   This file contains a rat behavior data from Ito,Doya 2009.
   
 -fig6
-  About fig6 A-C
-  All you have to do is to run ‘A_mainfunc_fig6ABC.m’.
+ About fig6 A-C
+ All you have to do is to run ‘A_mainfunc_fig6ABC.m’.
 
  ・A_mainfunc_fig6ABC.m
  This is the main function of fig5. You can draw fig6A-C if you run this file.
@@ -80,7 +80,7 @@ The codes to create each figure is stored in the following three folders.
  This file contains a rat behavior data from Ito,Doya 2009.
 
   
-About fig6 D-G 
+ About fig6 D-G 
  ・A_mainfunc_fig6DEFG.m
  This is the main function of fig5. You can draw fig6D-G if you run this file.
  It takes about 1 minutes.
@@ -239,6 +239,62 @@ About fig6 D-G
  ・plot_fig_iFEP.m 
  The file to draw figure.
  
+-Extentended data fig7
+ All you have to do is to run ‘A_mainfunc_figE7.m’.
 
+ ・A_mainfunc_figE7.m
+ This is the main function of figE7. You can draw fig5 if you run this file.
+ It takes about 1 minutes.
 
+ ・get_doyalabdata.m
+ The file to load Doya labs data(animal_data.mat).
 
+ ・get_para_iFEP.m
+ The file for setting parameters for iFEP.
+
+ ・run_iFEP.m
+ The file for running iFEP.
+
+ ・state_transition.m
+ This file describes probabilities of state transition in state space model.
+
+ ・likelihood.m
+ This file describes likelihood of observation in state space model.
+
+ ・run_smoother.m
+ This is for smoother after particle filter.
+
+ ・animal_data.mat
+ This file contains a rat behavior data from Ito,Doya 2009.
+
+-Extentended data fig8
+ ・A_mainfunc_fig8.m
+ This is the main function of fig5. You can draw fig5 if you run this file.
+ It takes about 1 minutes.
+
+ ・get_doyalabdata.m
+ The file to load Doya labs data(animal_data.mat).
+
+ ・get_para_iFEP.m
+ The file for setting parameters for iFEP.
+
+ ・get_para_iQL.m
+ The file for setting parameters for iQL.
+
+ ・run_iFEP.m
+ The file for running iFEP.
+
+ ・run_iQL.m
+ The file for running iQL.
+
+ ・state_transition.m
+ This file describes probabilities of state transition in state space model.
+
+ ・likelihood.m
+ This file describes likelihood of observation in state space model.
+
+ ・run_smoother.m
+ This is for smoother after particle filter.
+
+ ・animal_data.mat
+ This file contains a rat behavior data from Ito,Doya 2009.
