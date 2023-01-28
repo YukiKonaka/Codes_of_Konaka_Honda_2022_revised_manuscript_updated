@@ -111,3 +111,134 @@ About fig6 D-G
 
  ・SGfilt_1D.m
  The file to run Savitzky-Golay filter.
+
+<Codes_of_Konaka_Honda_2_Extended_data_fig1-4>
+
+-Extentended data fig1
+ Run "A_mainfunc_figE1.m".
+ 
+-Extentended data fig2
+ Run files named as  “A_mainfunc — ” in each folder.
+ 
+-Extentended data fig3
+ All you have to do is to run ‘A_mainfunc_figE3.m’.
+ ・A_mainfunc_figE3.m
+ This is the main function of figE3. You can draw figE3 if you run this file.
+ It takes about 1 minutes.
+
+ ・get_para_FEP.m
+ The file to set parameters for ReCU model.
+
+ ・get_para_iFEP.m
+ The file to set parameters for iFEP.
+
+ ・run_FEP.m
+ The file to run ReCU model.
+
+ ・run_iFEP.m
+ The file to to run iFEP.
+
+ ・get_para_iFEP.m
+ The file for setting parameters for iFEP.
+
+ ・run_iFEP.m
+ The file for running iFEP.
+
+ ・state_transition.m
+ This file describes probabilities of state transition in state space model.
+
+ ・likelihood.m
+ This file describes likelihood of observation in state space model.
+
+ ・run_smoother.m
+ This is for smoother after particle filter.
+
+ ・plot_fig_iFEP.m
+ The file to draw figure.
+
+
+-Extentended data fig4
+
+ All you have to do is to run ‘A_mainfunc_figE4.m’.
+
+ ・A_mainfunc_figE4.m
+ This is the main function of figE3. You can draw figE3 if you run this file.
+ It takes about 1 minutes.
+
+ ・get_epsilon_option.m
+ The file to set epsilon.
+
+ ・get_para_FEP.m
+ The file to set parameters for ReCU model.
+
+ ・get_para_iFEP.m
+ The file to set parameters for iFEP.
+
+ ・run_FEP.m
+ The file to run ReCU model.
+
+ ・run_iFEP.m
+ The file to to run iFEP.
+
+ ・get_para_iFEP.m
+ The file for setting parameters for iFEP.
+
+ ・run_iFEP.m
+ The file for running iFEP.
+
+ ・state_transition.m
+ This file describes probabilities of state transition in state space model.
+
+ ・likelihood.m
+ This file describes likelihood of observation in state space model.
+
+ ・run_smoother.m
+ This is for smoother after particle filter.
+
+ ・plot_fig_iFEP.m
+ The file to draw figure.
+
+
+-Extentended data fig5
+ Run "A_main_func_figE5.m".
+ 
+-Extentended data fig6
+ All you have to do is to run ‘A_mainfunc_figE6.m’.
+
+ ・A_mainfunc_figE6.m
+ This is the main function of figE3. You can draw figE3 if you run this file.
+ It takes about 1 minutes.
+
+ ・get_para_FEP.m
+ The file to set parameters for ReCU model.
+
+ ・get_para_iFEP.m
+ The file to set parameters for iFEP.
+
+ ・run_FEP.m
+ The file to run ReCU model.
+
+ ・run_iFEP.m
+ The file to to run iFEP.
+
+ ・get_para_iFEP.m
+ The file for setting parameters for iFEP.
+
+ ・run_iFEP.m
+ The file for running iFEP.
+
+ ・state_transition.m
+ This file describes probabilities of state transition in state space model.
+
+ ・likelihood.m
+ This file describes likelihood of observation in state space model.
+
+ ・run_smoother.m
+ This is for smoother after particle filter.
+
+ ・plot_fig_iFEP.m 
+ The file to draw figure.
+ 
+
+
+
