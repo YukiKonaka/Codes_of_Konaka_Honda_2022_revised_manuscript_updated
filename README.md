@@ -14,15 +14,15 @@ The codes to create each figure is stored in the following three folders.
 
 <Codes_of_Konaka_Honda_1_Main_fig>
 
--**fig2**
+-fig2
  
  Run files named as  “A_mainfunc — ” in each folder.
 
-**-fig3**
+-fig3
  
  Run files named as  “A_mainfunc_left.m” and “A_mainfunc_right.m”.
 
-**-fig5**
+-fig5
  
  All you have to do is to run ‘A_mainfunc_fig5.m’.
 
@@ -59,7 +59,7 @@ The codes to create each figure is stored in the following three folders.
  
  This file contains a rat behavior data from Ito,Doya 2009.
   
-**-fig6**
+-fig6
  
  About fig6 A-C
  
@@ -146,18 +146,18 @@ The codes to create each figure is stored in the following three folders.
  
  The file to run Savitzky-Golay filter.
 
-**<Codes_of_Konaka_Honda_2_Extended_data_fig1-4>
-**
-**-Extentended data fig1
-** 
+<Codes_of_Konaka_Honda_2_Extended_data_fig1-4>
+
+-Extentended data fig1
+
  Run "A_mainfunc_figE1.m".
  
-**-Extentended data fig2
-** 
+-Extentended data fig2
+ 
  Run files named as  “A_mainfunc — ” in each folder.
  
-**-Extentended data fig3
-** 
+-Extentended data fig3
+ 
  All you have to do is to run ‘A_mainfunc_figE3.m’.
  
  ・A_mainfunc_figE3.m
@@ -206,8 +206,8 @@ The codes to create each figure is stored in the following three folders.
  The file to draw figure.
 
 
-**-Extentended data fig4
-**
+-Extentended data fig4
+
  All you have to do is to run ‘A_mainfunc_figE4.m’.
 
  ・A_mainfunc_figE4.m
@@ -260,12 +260,12 @@ The codes to create each figure is stored in the following three folders.
  The file to draw figure.
 
 
-**-Extentended data fig5
-** 
+-Extentended data fig5
+ 
  Run "A_main_func_figE5.m".
  
-**-Extentended data fig6
-** 
+-Extentended data fig6
+ 
  All you have to do is to run ‘A_mainfunc_figE6.m’.
 
  ・A_mainfunc_figE6.m
@@ -313,8 +313,8 @@ The codes to create each figure is stored in the following three folders.
  
  The file to draw figure.
  
-**-Extentended data fig7
-** 
+-Extentended data fig7
+ 
  All you have to do is to run ‘A_mainfunc_figE7.m’.
 
  ・A_mainfunc_figE7.m
@@ -350,8 +350,8 @@ The codes to create each figure is stored in the following three folders.
  
  This file contains a rat behavior data from Ito,Doya 2009.
 
-**-Extentended data fig8
-** 
+-Extentended data fig8
+ 
  ・A_mainfunc_fig8.m
  
  This is the main function of fig5. You can draw fig5 if you run this file.
