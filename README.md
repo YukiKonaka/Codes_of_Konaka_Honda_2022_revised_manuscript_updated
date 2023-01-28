@@ -13,6 +13,7 @@ The codes to create each figure is stored in the following three folders.
 - Codes_of_Konaka_Honda_3_Extended_data_fig5-7
 
 <Codes_of_Konaka_Honda_1_Main_fig>
+
 -fig2
  
  Run files named as  “A_mainfunc — ” in each folder.
