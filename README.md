@@ -313,7 +313,7 @@ The codes to create each figure is stored in the following three folders.
  
  The file to draw figure.
  
-- Supplementary fig7
+## Supplementary fig7
  
  All you have to do is to run ‘A_mainfunc_figE7.m’.
 
@@ -350,7 +350,7 @@ The codes to create each figure is stored in the following three folders.
  
  This file contains a rat behavior data from Ito,Doya 2009.
 
-- Supplementary fig8
+## Supplementary fig8
  
  ・A_mainfunc_fig8.m
  
