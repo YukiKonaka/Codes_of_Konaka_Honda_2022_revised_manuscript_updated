@@ -261,6 +261,8 @@ The codes to create each figure is stored in the following three folders.
  
  Run "A_main_func_figS4.m".
  
+# Codes_of_Konaka_Honda_2_Supplementary_data_fig5-8
+ 
 ## Supplementary fig5
  
  All you have to do is to run ‘A_mainfunc_figS5.m’.
