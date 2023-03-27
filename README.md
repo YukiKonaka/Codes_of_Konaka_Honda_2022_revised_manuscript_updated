@@ -20,7 +20,7 @@ The codes to create each figure is stored in the following three folders.
 
 -fig3
  
- Run files named as  “A_mainfunc_left.m” and “A_mainfunc_right.m”.
+ Run files named as  “fig3_BC.m” and “fig3_EF.m”.
 
 -fig5
  
@@ -146,17 +146,17 @@ The codes to create each figure is stored in the following three folders.
  
  The file to run Savitzky-Golay filter.
 
-<Codes_of_Konaka_Honda_2_Extended_data_fig1-4>
+<Codes_of_Konaka_Honda_2_Supplementary_data_fig1-4>
 
--Extentended data fig1
+-Supplementary fig1
 
  Run "A_mainfunc_figE1.m".
  
--Extentended data fig2
+-Supplementary fig2
  
  Run files named as  “A_mainfunc — ” in each folder.
  
--Extentended data fig3
+-Supplementary fig3
  
  All you have to do is to run ‘A_mainfunc_figE3.m’.
  
@@ -206,7 +206,7 @@ The codes to create each figure is stored in the following three folders.
  The file to draw figure.
 
 
--Extentended data fig4
+-Supplementary fig4
 
  All you have to do is to run ‘A_mainfunc_figE4.m’.
 
@@ -260,11 +260,11 @@ The codes to create each figure is stored in the following three folders.
  The file to draw figure.
 
 
--Extentended data fig5
+-Supplementary fig5
  
  Run "A_main_func_figE5.m".
  
--Extentended data fig6
+-Supplementary fig6
  
  All you have to do is to run ‘A_mainfunc_figE6.m’.
 
@@ -313,7 +313,7 @@ The codes to create each figure is stored in the following three folders.
  
  The file to draw figure.
  
--Extentended data fig7
+-Supplementary fig7
  
  All you have to do is to run ‘A_mainfunc_figE7.m’.
 
@@ -350,7 +350,7 @@ The codes to create each figure is stored in the following three folders.
  
  This file contains a rat behavior data from Ito,Doya 2009.
 
--Extentended data fig8
+-Supplementary fig8
  
  ・A_mainfunc_fig8.m
  
