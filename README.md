@@ -148,15 +148,12 @@ The codes to create each figure is stored in the following three folders.
 
 <Codes_of_Konaka_Honda_2_Supplementary_data_fig1-4>
 
-## Supplementary fig1
-
- Run "A_mainfunc_figE1.m".
  
-## Supplementary fig2
+## Supplementary fig1
  
  Run files named as  “A_mainfunc — ” in each folder.
  
-## Supplementary fig3
+## Supplementary fig2
  
  All you have to do is to run ‘A_mainfunc_figE3.m’.
  
@@ -206,7 +203,7 @@ The codes to create each figure is stored in the following three folders.
  The file to draw figure.
 
 
-## Supplementary fig4
+## Supplementary fig3
 
  All you have to do is to run ‘A_mainfunc_figE4.m’.
 
@@ -260,11 +257,11 @@ The codes to create each figure is stored in the following three folders.
  The file to draw figure.
 
 
-## Supplementary fig5
+## Supplementary fig4
  
  Run "A_main_func_figE5.m".
  
-## Supplementary fig6
+## Supplementary fig5
  
  All you have to do is to run ‘A_mainfunc_figE6.m’.
 
@@ -313,7 +310,7 @@ The codes to create each figure is stored in the following three folders.
  
  The file to draw figure.
  
-## Supplementary fig7
+## Supplementary fig6
  
  All you have to do is to run ‘A_mainfunc_figE7.m’.
 
@@ -350,7 +347,7 @@ The codes to create each figure is stored in the following three folders.
  
  This file contains a rat behavior data from Ito,Doya 2009.
 
-## Supplementary fig8
+## Supplementary fig7
  
  ・A_mainfunc_fig8.m
  
@@ -392,3 +389,9 @@ The codes to create each figure is stored in the following three folders.
  ・animal_data.mat
  
  This file contains a rat behavior data from Ito,Doya 2009.
+ 
+ 
+ 
+## Supplementary fig8
+
+ Run "A_mainfunc_figE1.m".
