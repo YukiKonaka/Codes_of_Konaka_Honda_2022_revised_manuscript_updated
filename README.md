@@ -18,12 +18,11 @@ The codes to create each figure is stored in the following three folders.
  
  Run files named as  “A_mainfunc — ” in each folder.
 
- 
-- fig3
+## fig3
  
  Run files named as  “fig3_BC.m” and “fig3_EF.m”.
 
-- fig5
+## fig5
  
  All you have to do is to run ‘A_mainfunc_fig5.m’.
 
@@ -60,7 +59,7 @@ The codes to create each figure is stored in the following three folders.
  
  This file contains a rat behavior data from Ito,Doya 2009.
   
-- fig6
+## fig6
  
  About fig6 A-C
  
@@ -149,15 +148,15 @@ The codes to create each figure is stored in the following three folders.
 
 <Codes_of_Konaka_Honda_2_Supplementary_data_fig1-4>
 
-- Supplementary fig1
+## Supplementary fig1
 
  Run "A_mainfunc_figE1.m".
  
-- Supplementary fig2
+## Supplementary fig2
  
  Run files named as  “A_mainfunc — ” in each folder.
  
-- Supplementary fig3
+## Supplementary fig3
  
  All you have to do is to run ‘A_mainfunc_figE3.m’.
  
@@ -207,7 +206,7 @@ The codes to create each figure is stored in the following three folders.
  The file to draw figure.
 
 
-- Supplementary fig4
+## Supplementary fig4
 
  All you have to do is to run ‘A_mainfunc_figE4.m’.
 
@@ -261,11 +260,11 @@ The codes to create each figure is stored in the following three folders.
  The file to draw figure.
 
 
-- Supplementary fig5
+## Supplementary fig5
  
  Run "A_main_func_figE5.m".
  
-- Supplementary fig6
+## Supplementary fig6
  
  All you have to do is to run ‘A_mainfunc_figE6.m’.
 
