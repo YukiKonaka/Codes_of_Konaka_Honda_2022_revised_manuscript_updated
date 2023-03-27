@@ -157,7 +157,7 @@ The codes to create each figure is stored in the following three folders.
  
  All you have to do is to run ‘A_mainfunc_figE3.m’.
  
- ・A_mainfunc_figE3.m
+ ・A_mainfunc_figS2.m
  
  This is the main function of figE3. You can draw figE3 if you run this file.
  It takes about 1 minutes.
@@ -205,9 +205,9 @@ The codes to create each figure is stored in the following three folders.
 
 ## Supplementary fig3
 
- All you have to do is to run ‘A_mainfunc_figE4.m’.
+ All you have to do is to run ‘A_mainfunc_figS3.m’.
 
- ・A_mainfunc_figE4.m
+ ・A_mainfunc_figS3.m
  
  This is the main function of figE3. You can draw figE3 if you run this file.
  It takes about 1 minutes.
@@ -259,13 +259,13 @@ The codes to create each figure is stored in the following three folders.
 
 ## Supplementary fig4
  
- Run "A_main_func_figE5.m".
+ Run "A_main_func_figS4.m".
  
 ## Supplementary fig5
  
- All you have to do is to run ‘A_mainfunc_figE6.m’.
+ All you have to do is to run ‘A_mainfunc_figS5.m’.
 
- ・A_mainfunc_figE6.m
+ ・A_mainfunc_figS5.m
  
  This is the main function of figE3. You can draw figE3 if you run this file.
  It takes about 1 minutes.
@@ -312,9 +312,9 @@ The codes to create each figure is stored in the following three folders.
  
 ## Supplementary fig6
  
- All you have to do is to run ‘A_mainfunc_figE7.m’.
+ All you have to do is to run ‘A_mainfunc_figS6.m’.
 
- ・A_mainfunc_figE7.m
+ ・A_mainfunc_figS6.m
  
  This is the main function of figE7. You can draw fig5 if you run this file.
  It takes about 1 minutes.
@@ -349,9 +349,9 @@ The codes to create each figure is stored in the following three folders.
 
 ## Supplementary fig7
  
- ・A_mainfunc_fig8.m
+ ・A_mainfunc_fig7.m
  
- This is the main function of fig5. You can draw fig5 if you run this file.
+ This is the main function of figS7. You can draw figS7 if you run this file.
  It takes about 1 minutes.
 
  ・get_doyalabdata.m
@@ -394,4 +394,4 @@ The codes to create each figure is stored in the following three folders.
  
 ## Supplementary fig8
 
- Run "A_mainfunc_figE1.m".
+ Run "A_mainfunc_figS8.m".
